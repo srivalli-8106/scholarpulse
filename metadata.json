@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPulse AI - Smart Student Assistant & Learning Hub",
+  "description": "Intelligent AI student assistant with interactive academic tutor chat, subject-specific context, step-by-step problem solver, study dashboard, and smart practice tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
